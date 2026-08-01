@@ -1,0 +1,17 @@
+{
+  "short_name": "LowPoly3D",
+  "name": "Generador de Mallas Low Poly 3D",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%236366f1'><rect width='512' height='512' rx='100' fill='%230f172a'/><path d='M256 96L384 192L256 288L128 192Z' fill='%23818cf8'/><path d='M128 192L256 288V416L128 320Z' fill='%234f46e5'/><path d='M384 192L256 288V416L384 320Z' fill='%236366f1'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "any"
+}
